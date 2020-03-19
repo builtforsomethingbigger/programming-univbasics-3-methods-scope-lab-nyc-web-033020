@@ -23,4 +23,3 @@ def all_phrases(catch_phrases)
   puts phrase_2
   puts phrase_3
 end
-all_phrases(catch_phrases)
