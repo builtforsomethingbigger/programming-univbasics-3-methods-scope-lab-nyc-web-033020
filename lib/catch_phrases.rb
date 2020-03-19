@@ -15,5 +15,10 @@ def link
 end
 
 def all_phrases(catch_phrases)
-  puts "Waahoo!"
+  phrase = "It's-a me, Mario!"
+  status = "Thank You Mario! But Our Princess Is In Another Castle!"
+  Phrase = "It's Dangerous To Go Alone! Take This."
+  puts phrase
+  puts status
+  puts Phrase
 end
