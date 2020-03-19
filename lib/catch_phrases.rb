@@ -14,10 +14,12 @@ def link
   puts status
 end
 
-phrase_1 = "It's-a me, Mario!"
-phrase_2 = "Thank You Mario! But Our Princess Is In Another Castle!"
-phrase_3 = "It's Dangerous To Go Alone! Take This."
 
 def all_phrases
-  puts phrase_1 + phrase_2 + phrase_3
+  phrase_1 = "It's-a me, Mario!"
+  phrase_2 = "Thank You Mario! But Our Princess Is In Another Castle!"
+  phrase_3 = "It's Dangerous To Go Alone! Take This."
+  puts phrase_1
+  puts phrase_2
+  puts phrase_3
 end
