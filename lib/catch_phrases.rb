@@ -17,4 +17,3 @@ end
 def all_phrases(catch_phrases)
   puts "Waahoo!"
 end
-all_phrases(catch_phrases)
